@@ -14,4 +14,5 @@ Machine Learning algorithms used:
         5.Random Forest (Scikit-learn)
         
 Accuracy achieved: 92.5% (using Random Forest model)
+
 Also have deployed it as a public API using FastAPI & ngrok
